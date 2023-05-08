@@ -119,7 +119,7 @@
 
 #### 4. 분류 알고리즘을 적용해 좌표 보정
 
-![](https://velog.velcdn.com/images/hj_/post/8ccaef10-0660-4166-802a-b7f613d6bd0f/image.JPG)
+![](https://velog.velcdn.com/images/hj_/post/108dfa6f-b641-434b-8688-7776cff007bf/image.JPG)
 
 
 * 분류 알고리즘을 통해 비슷한 좌표들을 하나로 합친 결과이다
