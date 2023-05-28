@@ -24,8 +24,7 @@
 
 ### 1. 특징점 추출
 
-
-![](https://velog.velcdn.com/images/hj_/post/d6a9c38c-c2d3-4852-bd75-78b2d0f59fb6/image.JPG)
+![](https://velog.velcdn.com/images/hj_/post/7e9ee9bf-f3e8-4aff-86d9-978bebcae1c0/image.JPG)
 
 
 
@@ -44,7 +43,7 @@
 ### 2. 특징점 매칭
 
 
-![](https://velog.velcdn.com/images/hj_/post/0bd6ee74-ca06-4683-871c-8d6b48a96304/image.JPG)
+![](https://velog.velcdn.com/images/hj_/post/b5e4c3fe-d427-4ef4-a3bb-e12678cb830c/image.JPG)
 
 
 * SIFT 알고리즘을 사용하여 두 개의 이미지에 대해 특징점을 추출하고 매칭을 진행하였다
@@ -57,15 +56,15 @@
 
 ### 3. 특징점 필터링
 
-![](https://velog.velcdn.com/images/hj_/post/41de2cc9-d4b2-41df-8fae-e7377b498692/image.JPG)
 
+![](https://velog.velcdn.com/images/hj_/post/8cb44af8-d2fb-4544-a531-14ced613ff51/image.JPG)
 
 
 * 올바르지 않은 매칭점이 있을 수도 있기 때문에 특징점들을 필터링하였다
 
 * RANSAC 과 Homography 를 이용해 매칭된 특징점들을 필터링하였다
 
-
+* 2번에서 올바르지 않은 매칭점이 있는데 필터링되어 사라진 것을 확인할 수 있다
 
 <br>
 
