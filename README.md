@@ -77,9 +77,6 @@
 
 ![](https://velog.velcdn.com/images/hj_/post/9a1a86af-e92e-44f7-9722-f96d632dc097/image.JPG)
 
-![](https://velog.velcdn.com/images/hj_/post/f9184318-b3c5-411c-80a3-d482fa67a958/image.jpg)
-
-
 
 
 * 촬영된 모든 이미지를 결합한다
